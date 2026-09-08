@@ -1,0 +1,8 @@
+# Unreal Engine Ignored Folders
+Binaries/
+Intermediate/
+Saved/
+Build/
+DerivedDataCache/
+.vs/
+*.sln
